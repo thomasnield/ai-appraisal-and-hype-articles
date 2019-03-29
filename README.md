@@ -2,7 +2,11 @@
 
 ### Articles and resources that appraise versus hype machine learning, deep learning, and artificial intelligence
 
-Throughout my career, I have found [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) to be an exceptionally fascinating buzzword. Of course, almost every buzzword that enters corporate jargon (e.g. "Big Data", "Internet of Things", "Blockchain", "BitCoin", etc) will be shrouded with hype, only to have expectations to be disappointed and corporations chase something else. But "artificial intelligence" is different for two reasons: 1) It is hyped and invested to a scale seemingly as large as the Dot-com bubble and 2) It has gone through cycles of AI booms and "[AI Winters](https://en.wikipedia.org/wiki/AI_winter)" over past several decades. 
+Throughout my career, I have found "[artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)" to be an exceptionally fascinating buzzword. Of course, almost every buzzword that enters corporate jargon (e.g. "Big Data", "Internet of Things", "Blockchain", "BitCoin", etc) will be shrouded with hype, only to have expectations be disappointed and corporations chase something else. But "artificial intelligence" is different for two reasons: 
+
+1) It is hyped and invested to a scale seemingly as large as the Dot-com bubble 
+
+2) It has gone through cycles of AI booms and "[AI Winters](https://en.wikipedia.org/wiki/AI_winter)" over past several decades. 
 
 While many of my colleagues in operations research and analytics circles dismiss the "artificial intelligence" buzzword as media hype and  tabloid, such hype has had an effect on society. Many Fortune 500 CEO's, law makers, venture capitalists, and the general population are under the impression SkyNet is somehow upon us. Billions of U.S. dollars are poured into AI research but those funding such initiatives do not quite understand the technology or what it actually is good at. 
 
