@@ -17,6 +17,9 @@ My Pocket bookmarks are getting full with these hype and appraisal articles, so 
 |---|---|---|
 |[Deep Learning: A Critical Appraisal](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf)|Gary Marcus|An authoritative appraisal of deep learning's limitations and problems|
 |[In Defense of Skepticism About Deep Learning](https://medium.com/@GaryMarcus/in-defense-of-skepticism-about-deep-learning-6e8bfd5ae0f1)|Gary Marcus|A followup to Gary Marcus' appraisal of deep learning capabilities|
+|[Greedy, Brittle, Opaque, and Shallow: The Downsides to Deep Learning](https://www.wired.com/story/greedy-brittle-opaque-and-shallow-the-downsides-to-deep-learning/)|Jason Pontin|A four-pronged breakdown on the limitations of deep learning|
+|[Is Deep Learning Already Hitting its Limitations?](https://towardsdatascience.com/is-deep-learning-already-hitting-its-limitations-c81826082ac3)|Thomas Nield|My article highlighting practical problems deep learning fails to solve and pose the possiblity of another AI Winter|
+|[If it Works, It's Not AI](http://dspace.mit.edu/bitstream/handle/1721.1/80558/43557450-MIT.pdf?sequence=2)|Eve M. Philips|Highlights how 1980's AI firms struggled to turn "AI" into commercial products and managing expectations|
 
 
 ## Hype Articles on Artificial Intelligence
