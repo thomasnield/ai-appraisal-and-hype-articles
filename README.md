@@ -4,7 +4,7 @@
 
 Throughout my career, I have found "[artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)" to be an exceptionally fascinating buzzword. Of course, almost every buzzword that enters corporate jargon (e.g. "Big Data", "Internet of Things", "Blockchain", "BitCoin", etc) will be shrouded with hype, only to have expectations be disappointed and corporations chase something else. But "artificial intelligence" is different for two reasons: 
 
-1) It is exponentially hyped and invested to a scale that feels like the Dot-com bubble.
+1) It is ubiquitously hyped and invested to an unusally large scale. 
 
 2) Unlike other buzzwords, "AI" has gone through cycles of AI booms and "[AI Winters](https://en.wikipedia.org/wiki/AI_winter)" over past several decades. 
 
