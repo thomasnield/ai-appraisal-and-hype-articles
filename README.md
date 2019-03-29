@@ -1,6 +1,6 @@
-# AI Realism Articles
+# AI Appraisal and Hype
 
-### Articles and resources that see past AI hype and focus on practicality and realistic expectations
+### Articles and resources that appraise versus hype machine learning, deep learning, and artificial intelligence
 
 |Article|Author|Summary|
 |---|---|---|
