@@ -36,12 +36,15 @@ My Pocket bookmarks are getting full with these hype and appraisal articles, so 
 |[AI Winter is Well On Its Way](https://blog.piekniewski.info/2018/05/28/ai-winter-is-well-on-its-way/)|Filip Piekniewski|Filip expresses his frustrations over AI predictions and problems with self-driving vehicles|
 
 
-## Hype Articles on Artificial Intelligence
+## Promotion/Hype of Artificial Intelligence
 
-This is just a small sampling of a vast trove of apocalyptic and sensational articles about AI. I'm going to keep this list short because there
+This is just a small sampling of a vast trove of apocalyptic and sensational articles about AI. I'm going to keep this list short because there are plenty of articles promoting and sensationalizing AI. 
+
 |Article|Description|
 |---|---|
-|[China Vows to Become AI World Leader](https://www.thesun.co.uk/tech/4067800/china-vows-to-become-artificial-intelligence-world-leader-by-2030-but-will-it-spark-a-killer-computer-arms-race/)|A bleak outlook for humanity as the US and China enter an AI arms race|
+|[China Vows to Become AI World Leader](https://www.thesun.co.uk/tech/4067800/china-vows-to-become-artificial-intelligence-world-leader-by-2030-but-will-it-spark-a-killer-computer-arms-race/)|A bleak outlook for humanity as the US and China enter an AI arms race
+|[WSJ - How AI is Transforming the Workplace](https://www.wsj.com/articles/how-ai-is-transforming-the-workplace-1489371060)|AI is making hiring decisions for managers.|
+
 
 ## Videos
 
