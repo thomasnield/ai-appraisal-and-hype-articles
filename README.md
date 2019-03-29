@@ -48,9 +48,19 @@ This is just a small sampling of a vast trove of apocalyptic and sensational art
 
 ## Videos
 
-**P vs. NP and the Computational Complexity Zoo **
+#### P vs. NP and the Computational Complexity Zoo 
 
 [![](https://img.youtube.com/vi/YX40hbAHx3s/hqdefault.jpg)](https://youtu.be/YX40hbAHx3s)
+
+#### The Thinking Machine (1960's Pre-AI Winter)
+
+[![](https://img.youtube.com/vi/aygSMgK3BEM/hqdefault.jpg)](https://youtu.be/aygSMgK3BEM)
+
+
+#### The Lighthill Debate (1973)
+
+[![](https://img.youtube.com/vi/yReDbeY7ZMU/hqdefault.jpg)](https://youtu.be/yReDbeY7ZMU)
+
 
 ## Social Media Posts
 
