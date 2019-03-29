@@ -21,6 +21,7 @@ My Pocket bookmarks are getting full with these hype and appraisal articles, so 
 |---|---|---|
 |[Deep Learning: A Critical Appraisal](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf)|Gary Marcus|An authoritative appraisal of deep learning's limitations and problems|
 |[In Defense of Skepticism About Deep Learning](https://medium.com/@GaryMarcus/in-defense-of-skepticism-about-deep-learning-6e8bfd5ae0f1)|Gary Marcus|A followup to Gary Marcus' appraisal of deep learning capabilities|
+|[Rodney Brooks' Scorecard for 2019](http://rodneybrooks.com/predictions-scorecard-2019-january-01/)|Rodney Brooks|Rodney, the creator of iRobot and the Roomba vacuum, does his yearly audit of his predictions for deep learning, driverless cars, AI winters, and other technology cycles|
 |[The Limitations of Deep Learning](https://blog.keras.io/the-limitations-of-deep-learning.html)|Francois Chollet|An excerpt from a book describing in detail the limitations of deep learning and why we misguidedly anthropomorphize algorithms.|
 |[Greedy, Brittle, Opaque, and Shallow: The Downsides to Deep Learning](https://www.wired.com/story/greedy-brittle-opaque-and-shallow-the-downsides-to-deep-learning/)|Jason Pontin|A four-pronged breakdown on the limitations of deep learning|
 |[Does AI Include Constraint Solvers?](https://www.optaplanner.org/blog/2017/09/07/DoesAIIncludeConstraintSolvers.html)|
@@ -44,7 +45,7 @@ This is just a small sampling of a vast trove of apocalyptic and sensational art
 
 ## Videos
 
-** P vs. NP and the Computational Complexity Zoo **
+**P vs. NP and the Computational Complexity Zoo **
 
 [![](https://img.youtube.com/vi/YX40hbAHx3s/hqdefault.jpg)](https://youtu.be/YX40hbAHx3s)
 
