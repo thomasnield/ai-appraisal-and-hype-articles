@@ -23,7 +23,9 @@ My Pocket bookmarks are getting full with these hype and appraisal articles, so 
 |[In Defense of Skepticism About Deep Learning](https://medium.com/@GaryMarcus/in-defense-of-skepticism-about-deep-learning-6e8bfd5ae0f1)|Gary Marcus|A followup to Gary Marcus' appraisal of deep learning capabilities|
 |[Greedy, Brittle, Opaque, and Shallow: The Downsides to Deep Learning](https://www.wired.com/story/greedy-brittle-opaque-and-shallow-the-downsides-to-deep-learning/)|Jason Pontin|A four-pronged breakdown on the limitations of deep learning|
 |[Is Deep Learning Already Hitting its Limitations?](https://towardsdatascience.com/is-deep-learning-already-hitting-its-limitations-c81826082ac3)|Thomas Nield|My article highlighting practical problems deep learning fails to solve and pose the possiblity of another AI Winter|
+|[It's Either a Panda or a Gibbon: AI Winters and the Limits of Deep Learning](https://warontherocks.com/2018/05/its-either-a-panda-or-a-gibbon-ai-winters-and-the-limits-of-deep-learning/)|Robert Richbourg|Fascinating commentary on AI limitations and AI winters from a retired military officer with a PhD in Computer Science and Artificial Intelligence|
 |[Why We Are in Danger of Overestimating AI (Financial Times)](https://amp.ft.com/content/4367e34e-db72-11e7-9504-59efdb70e12f)|Richard Waters|A Financial Times story describing the expecation disconnect with AI|
+|[In What Ways Is Machine Learning Overrated](https://www.forbes.com/sites/quora/2017/12/21/in-what-ways-is-machine-learning-overrated/#6070d0d91b1a)|Forbes|A Forbes republishing of a Quora post describing how marginal machine learning's role is in products|
 |[If it Works, It's Not AI](http://dspace.mit.edu/bitstream/handle/1721.1/80558/43557450-MIT.pdf?sequence=2)|Eve M. Philips|Highlights how 1980's AI firms struggled to turn "AI" into commercial products and managing expectations|
 
 
