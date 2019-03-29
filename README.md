@@ -26,10 +26,22 @@ My Pocket bookmarks are getting full with these hype and appraisal articles, so 
 |[It's Either a Panda or a Gibbon: AI Winters and the Limits of Deep Learning](https://warontherocks.com/2018/05/its-either-a-panda-or-a-gibbon-ai-winters-and-the-limits-of-deep-learning/)|Robert Richbourg|Fascinating commentary on AI limitations and AI winters from a retired military officer with a PhD in Computer Science and Artificial Intelligence|
 |[Why We Are in Danger of Overestimating AI (Financial Times)](https://amp.ft.com/content/4367e34e-db72-11e7-9504-59efdb70e12f)|Richard Waters|A Financial Times story describing the expecation disconnect with AI|
 |[In What Ways Is Machine Learning Overrated](https://www.forbes.com/sites/quora/2017/12/21/in-what-ways-is-machine-learning-overrated/#6070d0d91b1a)|Forbes|A Forbes republishing of a Quora post describing how marginal machine learning's role is in products|
+|[AI is Harder Than You Think](https://www.nytimes.com/2018/05/18/opinion/artificial-intelligence-challenges.html)|Gary Marcus and Ernest Davis|The two authors point out why AI is hard at pinning down the complexity of human language, and points out Google Duplex as an example|
 |[If it Works, It's Not AI](http://dspace.mit.edu/bitstream/handle/1721.1/80558/43557450-MIT.pdf?sequence=2)|Eve M. Philips|Highlights how 1980's AI firms struggled to turn "AI" into commercial products and managing expectations|
+|[AI Winter is Well On Its Way](https://blog.piekniewski.info/2018/05/28/ai-winter-is-well-on-its-way/)|Filip Piekniewski|Filip expresses his frustrations over AI predictions and problems with self-driving vehicles|
 
 
 ## Hype Articles on Artificial Intelligence
+
+## Social Media Posts
+
+|Article|Platform|Description|
+|---|---|---|
+|[Can Neural Networks Solve Optimization Problems?](https://www.quora.com/Can-neural-networks-solve-optimization-problems#)|Quora|
+|[Why Are You Suggesting ML for That?](https://www.reddit.com/r/learnmachinelearning/comments/a49pk1/simple_general_tasks_that_you_solved_using/ebd1w6r)|Anecdotal evidence of ML being prescribed for problems it cannot solve, shown common displaced expectations of the technology|
+
+
+
 
 
 ## Wikipedia Articles
