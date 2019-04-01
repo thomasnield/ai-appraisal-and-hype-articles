@@ -67,4 +67,5 @@ This is just a small sampling of a vast trove of apocalyptic and sensational art
 
 ## Wikipedia Articles
 
+[Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 [AI Winter](https://en.wikipedia.org/wiki/AI_winter) 
