@@ -63,7 +63,7 @@ This is just a small sampling of a vast trove of apocalyptic and sensational art
 |[Can Neural Networks Solve Optimization Problems?](https://www.quora.com/Can-neural-networks-solve-optimization-problems#)|Quora|
 |[In What Ways Is Machine Learning Overrated?](https://www.quora.com/In-what-ways-is-machine-learning-overrated/answer/Tikhon-Jelvis)|Quora|A computer scientist compares machine learning to heuristics and established technologies|
 |[Why Are You Suggesting ML for That?](https://www.reddit.com/r/learnmachinelearning/comments/a49pk1/simple_general_tasks_that_you_solved_using/ebd1w6r)|Reddit|Anecdotal evidence of ML being misguidedly prescribed for problems outside its domain, due to common displaced expectations of the technology|
-|[Your Brain Has Them!](https://hackaday.com/2018/10/22/jump-into-ai-with-a-neural-network-of-your-own/#comment-5337983)|Hackaday|A commenter asks if there are no useful problems neural networks can solve, and another commenter says "our brain" has them, implying "no"|
+|[Your Brain Has Them!](https://hackaday.com/2018/10/22/jump-into-ai-with-a-neural-network-of-your-own/#comment-5337983)|Hackaday|A commenter asks if there are no useful problems neural networks can solve, and another commenter says "our brain has them", implying "no"|
 
 ## Wikipedia Articles
 
