@@ -12,7 +12,7 @@ My Pocket bookmarks are getting full with these articles, so I am going to start
 
 ## Summarizing the Narratives
 
-Based on the articles and resources listed below, here are the bullet points that objectively summarize proponent and critical perspectives on "AI":
+Based on the articles and resources listed below, here are the bullet points that objectively summarize proponent and critical perspectives on contemporary "AI" trends tied to machine learning:
 
 ### Proponent Points
 
