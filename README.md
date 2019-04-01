@@ -12,7 +12,7 @@ My Pocket bookmarks are getting full with these articles, so I am going to start
 
 ## Summarizing the Narratives
 
-Here are the bullet points that objectively weigh "artificial intelligence" and "machine learning" applications in the real world, from a proponent as well as critical perspective:
+Based on the articles and resources listed below, here are the bullet points that objectively summarize proponent and critical perspectives on "AI":
 
 ### Proponent Points
 
