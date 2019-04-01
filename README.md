@@ -16,20 +16,20 @@ Based on the articles and resources listed below, here are the bullet points tha
 
 ### Proponent Points
 
-* Useful applications have been developed with machine learning, particularly image recognition, natural language processing, and image/audio generation. 
+* **Useful applications have been developed with machine learning**, particularly image recognition, natural language processing, and image/audio generation. 
 
-* Machine learning has unlocked new ways to perform more powerful regressions that were impossible to do before, like fitting a regression to the pixels on an image. 
+* **Machine learning has unlocked new ways to perform more powerful regressions** that were impossible to do before, like fitting a regression to the pixels on an image. 
 
-* The techniques for machine learning (including neural networks) have been around for decades, but the availability of data is what enabled them, and having more data and computing power will create more applications in the future. 
+* **Having more data and computing power (e.g. quantum computing) will create more applications in the future.**
 
 
 ### Critical Points
 
 * **Machine learning requires large amounts of labeled data that may not be practical for most business applications.** This is one reason why AI research is fond of applying machine learning to games like Chess, Go, Super Mario, and StarCraft. With these games, it is easy to generate enormous amounts of data from virtual players playing against themselves. However, this is not something that can easily be done in real-world applications.
 
-* **Heuristics and other algorithms that leverage business domain knowledge will outperform machine learning approaches in most cases**, in terms of cost and resources as well as effectiveness. 
+* **Heuristics and other algorithms that leverage business domain knowledge will outperform machine learning approaches** in most cases, in terms of cost and resources as well as effectiveness. 
 
-* **Machine learning is primarily good at two things: regression and categorization. It quickly has a diminishing return in other spaces** like the [Traveling Salesman Problem](https://www.youtube.com/watch?v=j1s69yf4a9Y). The most interesting problems in the real world are not regression and categorization, but rather require a broader system of intuition, human experience, domain knowledge, and unquantifiable ideas. 
+* **Machine learning is primarily only good at two things: regression and categorization.** It quickly has a diminishing return in other spaces like the [Traveling Salesman Problem](https://www.youtube.com/watch?v=j1s69yf4a9Y). The most interesting problems in the real world are not regression and categorization, but rather require a broader system of intuition, human experience, domain knowledge, and unquantifiable ideas. 
 
 * **Machine learning (and algorithms in general) need a single task with a single objective** to be practically useful, and trying to generalize to multiple unrelated objectives and tasks will quickly have a diminishing return ([No Free Lunch Theorem](https://en.wikipedia.org/wiki/No_free_lunch_theorem)). This is another reason why AI research gravitates towards board games and video games, as there is a single quantifiable objective and a confined world structure, with only a fixed number of moves, inputs, and outputs. 
 
