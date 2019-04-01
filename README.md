@@ -27,7 +27,7 @@ Based on the articles and resources listed below, here are the bullet points tha
 
 * Machine learning requires large amounts of labeled data that may not be practical for most business applications. This is one reason why AI research is fond of applying machine learning to games like Chess, Go, Super Mario, and StarCraft. With these games, it is easy to generate enormous amounts of data from virtual players playing against themselves. However, this is not something that can be done in most real-world applications.
 
-* Heuristics and other algorithms that leverage business domain knowledge will outperform machine learning approaches in most cases, in terms of cost and resources as well as effectiveness. 
+* Heuristics and other algorithms that leverage business domain knowledge will outperform machine learning approaches in most cases, in terms of cost and resources as well as effectiveness. While heuristics do not guarantee a perfect solution, they are far less data-hungry than machine learning and can be far more effective. 
 
 * Machine learning is primarily only good at two things: regression and categorization. It quickly has a diminishing return in other spaces like the [Traveling Salesman Problem](https://www.youtube.com/watch?v=j1s69yf4a9Y). The most interesting problems in the real world are not regression and categorization, but rather require a broader system of intuition, human experience, domain knowledge, and unquantifiable ideas. 
 
