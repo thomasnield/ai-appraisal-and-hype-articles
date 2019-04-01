@@ -96,7 +96,7 @@ This is just a small sampling of a vast trove of apocalyptic and sensational art
 
 ## Social Media Posts
 
-Examples of sound advice, as well as the blind leading the blind.
+Examples of sound expert advice, as well as the blind leading the blind.
 
 |Article|Platform|Description|
 |---|---|---|
