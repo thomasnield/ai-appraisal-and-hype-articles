@@ -31,7 +31,7 @@ Based on the articles and resources listed below, here are the bullet points tha
 
 * Machine learning is primarily only good at two things: regression and categorization. It quickly has a diminishing return in other spaces like the [Traveling Salesman Problem](https://www.youtube.com/watch?v=j1s69yf4a9Y). The most interesting problems in the real world are not regression and categorization, but rather require a broader system of intuition, human experience, domain knowledge, and unquantifiable ideas. 
 
-* Machine learning (and algorithms in general) need a single task with a single objective to be practically useful, and trying to generalize to multiple unrelated objectives and tasks will quickly have a diminishing return ([No Free Lunch Theorem](https://en.wikipedia.org/wiki/No_free_lunch_theorem)). This is another reason why AI research gravitates towards board games and video games, as there is a single quantifiable objective and a confined world structure, with only a fixed number of moves, inputs, and outputs. 
+* Machine learning (and algorithms in general) need a single task with a single objective to be practically useful, and trying to generalize multiple unrelated objectives and tasks will quickly have a diminishing return ([No Free Lunch Theorem](https://en.wikipedia.org/wiki/No_free_lunch_theorem)). This is another reason why AI research gravitates towards board games and video games, as there is a single quantifiable objective and a confined world structure, with only a fixed number of moves, inputs, and outputs. 
 
 * Machine learning (and nondeterministic algorithms in general), need manual tuning and human experimentation with many hyperparameters before they can behave "intelligently" when applied to a tightly scoped problem.
 
