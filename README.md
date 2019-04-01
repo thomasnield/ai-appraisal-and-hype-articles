@@ -35,8 +35,7 @@ Based on the articles and resources listed below, here are the bullet points tha
 
 * Machine learning (and nondeterministic algorithms in general), need manual tuning and human experimentation with many hyperparameters before they can behave "intelligently" when applied to a tightly scoped problem.
 
-* The nature and definition of "intelligence" and "consciousness" is currently philosophical, meaning we have little to no idea how we understand this human phenomena much less replicate it on a machine. The pursuit of "general artificial intelligence" is guided by speculations and philosophy, and even leads [prominent AI researchers to existentially wonder if their iPhone has feelings](https://getpocket.com/explore/item/why-can-t-the-world-s-greatest-minds-solve-the-mystery-of-consciousness). 
-
+* The nature and definition of "intelligence" and "consciousness" is currently philosophical, meaning we have little to no idea how we understand this human phenomena much less replicate it on a machine. The pursuit of "general artificial intelligence" is guided by speculations and philosophy, and even leads [prominent AI researchers to wonder if their iPhone has feelings](https://getpocket.com/explore/item/why-can-t-the-world-s-greatest-minds-solve-the-mystery-of-consciousness). Philosophy has a way of eluding pragmatism and creating unproductive rabbit holes. If you were following Elon Musk, [a prominent investor towards AI research](https://en.wikipedia.org/wiki/OpenAI), one moment you can be discussing how to strategically leverage AI in a business, and the next [we are funding research to break out of the Matrix](https://www.forbes.com/sites/janetwburns/2016/10/13/elon-musk-and-friends-are-spending-millions-to-break-out-of-the-matrix/#107f8c275ce1) or [summoning the AI demon](https://www.washingtonpost.com/news/innovations/wp/2014/10/24/elon-musk-with-artificial-intelligence-we-are-summoning-the-demon/). 
 
 
 
