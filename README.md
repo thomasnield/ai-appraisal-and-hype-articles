@@ -23,6 +23,7 @@ My Pocket bookmarks are getting full with these articles, so I am going to start
 |[It's Either a Panda or a Gibbon: AI Winters and the Limits of Deep Learning](https://warontherocks.com/2018/05/its-either-a-panda-or-a-gibbon-ai-winters-and-the-limits-of-deep-learning/)|Robert Richbourg|Fascinating commentary on AI limitations and AI winters from a retired military officer with a PhD in Computer Science and Artificial Intelligence|
 |[The Hard Thing About Deep Learning](https://www.oreilly.com/ideas/the-hard-thing-about-deep-learning)|Reza Zadeh|An explanation of the difficulties of deep learning from an optimization perspective|
 |[Why We Are in Danger of Overestimating AI (Financial Times)](https://amp.ft.com/content/4367e34e-db72-11e7-9504-59efdb70e12f)|Richard Waters|A Financial Times story describing the expectation disconnect with AI|
+|[Why Can't the World's Greatest Minds Solve the Mystery of Consciousness](https://getpocket.com/explore/item/why-can-t-the-world-s-greatest-minds-solve-the-mystery-of-consciousness)|Oliver Burkman|Does your iPhone really have feelings?
 |[In What Ways Is Machine Learning Overrated](https://www.forbes.com/sites/quora/2017/12/21/in-what-ways-is-machine-learning-overrated/#6070d0d91b1a)|Forbes|A Forbes republishing of a Quora post describing how marginal machine learning's role is in products|
 |[AI is Harder Than You Think](https://www.nytimes.com/2018/05/18/opinion/artificial-intelligence-challenges.html)|Gary Marcus and Ernest Davis|The two authors point out why AI is hard at pinning down the complexity of human language, and points out Google Duplex as an example|
 |[If it Works, It's Not AI](http://dspace.mit.edu/bitstream/handle/1721.1/80558/43557450-MIT.pdf?sequence=2)|Eve M. Philips|Highlights how 1980's AI firms struggled to turn "AI" into commercial products and managing expectations|
@@ -86,12 +87,22 @@ Here are the bullet points that objectively weigh "artificial intelligence" and 
 
 * Useful applications have been developed with machine learning, particularly image recognition, natural language processing, and image/audio generation. 
 
+* Machine learning has unlocked new ways to perform more powerful regressions that were impossible to do before. 
+
+
 ### Critical Points
 
 * Machine learning requires large amounts of labeled data that may not be practical for most business applications
 
-* AI research is fond of applying machine learning to games like chess, Go, and StarCraft because it is easy to generate enormous amounts of data from virtual players playing against themselves. However, this is not something that can easily be done in real-world applications. 
-
 * Heuristics and other algorithms that leverage business domain knowledge will outperform machine learning approaches in most cases, in terms of cost and resources as well as effectiveness. 
 
+* Machine learning is primarily good at two things: regression and categorization. It quickly has a diminishing return in other spaces like the [Traveling Salesman Problem](https://www.youtube.com/watch?v=j1s69yf4a9Y). The most interesting problems in the real world are not regression and categorization, but rather require a broader system of intuition, human experience, domain knowledge, and unquantifiable ideas. 
+
+* AI research is fond of applying machine learning to games like chess, Go, and StarCraft because it is easy to generate enormous amounts of data from virtual players playing against themselves. However, this is not something that can easily be done in real-world applications. 
+
 * Machine learning (and algorithms in general) need a single task with a single objective to be practically useful, and trying to generalize to multiple unrelated objectives and tasks will quickly have a diminishing return ([No Free Lunch Theorem](https://en.wikipedia.org/wiki/No_free_lunch_theorem)). 
+
+* Machine learning (and nondeterministic algorithms in general), need manual tuning and human experimentation with many hyperparameters before they can behave "intelligently" when applied to a tightly scoped problem.
+
+* The nature and definition of "intelligence" and "consciousness" is currently philosophical, meaning we have little to no idea how we understand this human phenomena much less replicate it on a machine. The pursuit of "general artificial intelligence" is guided by speculations and philosophy, and even leads [prominent AI researchers to existentially wonder if their iPhone has feelings](https://getpocket.com/explore/item/why-can-t-the-world-s-greatest-minds-solve-the-mystery-of-consciousness). 
+
