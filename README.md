@@ -28,7 +28,7 @@ My Pocket bookmarks are getting full with these articles, so I am going to start
 |[If it Works, It's Not AI](http://dspace.mit.edu/bitstream/handle/1721.1/80558/43557450-MIT.pdf?sequence=2)|Eve M. Philips|Highlights how 1980's AI firms struggled to turn "AI" into commercial products and managing expectations|
 |[Why the AI Hype Train is Already Off the Rails](https://builttoadapt.io/why-the-ai-hype-train-is-already-off-the-rails-and-why-im-over-ai-already-e7314e972ef4)|Dat Tran|A former Accenture Data Scientist expresses frustration over AI disillusionment and misguided investments|
 |[AI Winter is Well On Its Way](https://blog.piekniewski.info/2018/05/28/ai-winter-is-well-on-its-way/)|Filip Piekniewski|Filip expresses his frustrations over AI predictions and problems with self-driving vehicles|
-
+|[How It Feels to Learn Data Science in 2019](https://towardsdatascience.com/how-it-feels-to-learn-data-science-in-2019-6ee688498029)|Thomas Nield|Latter part of the satire comments on machine learning and StarCraft AI|
 
 ## Promotion of Artificial Intelligence
 
