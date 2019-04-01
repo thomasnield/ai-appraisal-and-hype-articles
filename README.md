@@ -61,7 +61,8 @@ This is just a small sampling of a vast trove of apocalyptic and sensational art
 |Article|Platform|Description|
 |---|---|---|
 |[Can Neural Networks Solve Optimization Problems?](https://www.quora.com/Can-neural-networks-solve-optimization-problems#)|Quora|
-|[Why Are You Suggesting ML for That?](https://www.reddit.com/r/learnmachinelearning/comments/a49pk1/simple_general_tasks_that_you_solved_using/ebd1w6r)|Anecdotal evidence of ML being misguidedly prescribed for problems outside its domain, due to common displaced expectations of the technology|
+|[In What Ways Is Machine Learning Overrated?](https://www.quora.com/In-what-ways-is-machine-learning-overrated/answer/Tikhon-Jelvis)|Quora|A computer scientist compares machine learning to heuristics and established technologies|
+|[Why Are You Suggesting ML for That?](https://www.reddit.com/r/learnmachinelearning/comments/a49pk1/simple_general_tasks_that_you_solved_using/ebd1w6r)|Reddit|Anecdotal evidence of ML being misguidedly prescribed for problems outside its domain, due to common displaced expectations of the technology|
 
 
 ## Wikipedia Articles
