@@ -9,6 +9,37 @@ While many of my colleagues in operations research circles dismiss the "artifici
 My Pocket bookmarks are getting full with these articles, so I am going to start dumping them here on this GitHub page for my own organization and to share with others. Feel free to contribute your own too.  It is fascinating to compare these two narratives and how they contrast each other, and it will be interesting to see how things play out as investors and CEO's start demanding financial return from AI technologies. 
 
 
+
+## Summarizing the Narratives
+
+Here are the bullet points that objectively weigh "artificial intelligence" and "machine learning" applications in the real world, from a proponent as well as critical perspective:
+
+### Proponent Points
+
+* Useful applications have been developed with machine learning, particularly image recognition, natural language processing, and image/audio generation. 
+
+* Machine learning has unlocked new ways to perform more powerful regressions that were impossible to do before, like fitting a regression to the pixels on an image. 
+
+* The techniques for machine learning (including neural networks) have been around for decades, but the availability of data is what enabled them, and having more data and computing power will create more applications in the future. 
+
+
+### Critical Points
+
+* Machine learning requires large amounts of labeled data that may not be practical for most business applications. This is one reason why AI research is fond of applying machine learning to games like Chess, Go, Super Mario, and StarCraft. With these games, it is easy to generate enormous amounts of data from virtual players playing against themselves. However, this is not something that can easily be done in real-world applications.
+
+* Heuristics and other algorithms that leverage business domain knowledge will outperform machine learning approaches in most cases, in terms of cost and resources as well as effectiveness. 
+
+* Machine learning is primarily good at two things: regression and categorization. It quickly has a diminishing return in other spaces like the [Traveling Salesman Problem](https://www.youtube.com/watch?v=j1s69yf4a9Y). The most interesting problems in the real world are not regression and categorization, but rather require a broader system of intuition, human experience, domain knowledge, and unquantifiable ideas. 
+
+* Machine learning (and algorithms in general) need a single task with a single objective to be practically useful, and trying to generalize to multiple unrelated objectives and tasks will quickly have a diminishing return ([No Free Lunch Theorem](https://en.wikipedia.org/wiki/No_free_lunch_theorem)). This is another reason why AI research gravitates towards board games and video games, as there is a single quantifiable objective and a confined world structure, with only a fixed number of moves, inputs, and outputs. 
+
+* Machine learning (and nondeterministic algorithms in general), need manual tuning and human experimentation with many hyperparameters before they can behave "intelligently" when applied to a tightly scoped problem.
+
+* The nature and definition of "intelligence" and "consciousness" is currently philosophical, meaning we have little to no idea how we understand this human phenomena much less replicate it on a machine. The pursuit of "general artificial intelligence" is guided by speculations and philosophy, and even leads [prominent AI researchers to existentially wonder if their iPhone has feelings](https://getpocket.com/explore/item/why-can-t-the-world-s-greatest-minds-solve-the-mystery-of-consciousness). 
+
+
+
+
 ## Appraisals of Artificial Intelligence 
 
 |Article|Author|Summary|
@@ -77,32 +108,4 @@ This is just a small sampling of a vast trove of apocalyptic and sensational art
 [No Free Lunch Theorem](https://en.wikipedia.org/wiki/No_free_lunch_theorem)
 
 [Curse of Dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality)
-
-
-## Summarizing the Narratives
-
-Here are the bullet points that objectively weigh "artificial intelligence" and "machine learning" applications in the real world, from a proponent as well as critical perspective:
-
-### Proponent Points
-
-* Useful applications have been developed with machine learning, particularly image recognition, natural language processing, and image/audio generation. 
-
-* Machine learning has unlocked new ways to perform more powerful regressions that were impossible to do before, like fitting a regression to the pixels on an image. 
-
-* The techniques for machine learning (including neural networks) have been around for decades, but the availability of data is what enabled them, and having more data and computing power will create more applications in the future. 
-
-
-### Critical Points
-
-* Machine learning requires large amounts of labeled data that may not be practical for most business applications. This is one reason why AI research is fond of applying machine learning to games like Chess, Go, Super Mario, and StarCraft. With these games, it is easy to generate enormous amounts of data from virtual players playing against themselves. However, this is not something that can easily be done in real-world applications.
-
-* Heuristics and other algorithms that leverage business domain knowledge will outperform machine learning approaches in most cases, in terms of cost and resources as well as effectiveness. 
-
-* Machine learning is primarily good at two things: regression and categorization. It quickly has a diminishing return in other spaces like the [Traveling Salesman Problem](https://www.youtube.com/watch?v=j1s69yf4a9Y). The most interesting problems in the real world are not regression and categorization, but rather require a broader system of intuition, human experience, domain knowledge, and unquantifiable ideas. 
-
-* Machine learning (and algorithms in general) need a single task with a single objective to be practically useful, and trying to generalize to multiple unrelated objectives and tasks will quickly have a diminishing return ([No Free Lunch Theorem](https://en.wikipedia.org/wiki/No_free_lunch_theorem)). This is another reason why AI research gravitates towards board games and video games, as there is a single quantifiable objective and a confined world structure, with only a fixed number of moves, inputs, and outputs. 
-
-* Machine learning (and nondeterministic algorithms in general), need manual tuning and human experimentation with many hyperparameters before they can behave "intelligently" when applied to a tightly scoped problem.
-
-* The nature and definition of "intelligence" and "consciousness" is currently philosophical, meaning we have little to no idea how we understand this human phenomena much less replicate it on a machine. The pursuit of "general artificial intelligence" is guided by speculations and philosophy, and even leads [prominent AI researchers to existentially wonder if their iPhone has feelings](https://getpocket.com/explore/item/why-can-t-the-world-s-greatest-minds-solve-the-mystery-of-consciousness). 
 
