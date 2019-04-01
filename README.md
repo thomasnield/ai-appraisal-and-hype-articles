@@ -94,4 +94,4 @@ Here are the bullet points that objectively weigh "artificial intelligence" and 
 
 * Heuristics and other algorithms that leverage business domain knowledge will outperform machine learning approaches in most cases, in terms of cost and resources as well as effectiveness. 
 
-
+* Machine learning (and algorithms in general) need a single task with a single objective to be practically useful, and trying to generalize to multiple unrelated objectives and tasks will quickly have a diminishing return ([No Free Lunch Theorem](https://en.wikipedia.org/wiki/No_free_lunch_theorem)). 
