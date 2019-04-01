@@ -72,3 +72,22 @@ This is just a small sampling of a vast trove of apocalyptic and sensational art
 [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 [AI Winter](https://en.wikipedia.org/wiki/AI_winter) 
 [No Free Lunch Theorem](https://en.wikipedia.org/wiki/No_free_lunch_theorem)
+[Curse of Dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality)
+
+# Summarizing the Narratives
+
+Here are the bullet points that objectively weigh "artificial intelligence" and "machine learning" applications in the real world, from a proponent as well as critical perspective:
+
+## Proponent Points
+
+* Useful applications have been developed with machine learning, particularly image recognition, natural language processing, and image/audio generation. 
+
+## Critical Points
+
+* Machine learning requires large amounts of labeled data that may not be practical for most business applications
+
+* AI research is fond of applying machine learning to games like chess, Go, and StarCraft because it is easy to generate enormous amounts of data from virtual players playing against themselves. However, this is not something that can easily be done in real-world applications. 
+
+* Heuristics and other algorithms that leverage business domain knowledge will outperform machine learning approaches in most cases, in terms of cost and resources as well as effectiveness. 
+
+
