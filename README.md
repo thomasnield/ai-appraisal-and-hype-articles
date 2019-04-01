@@ -70,19 +70,23 @@ This is just a small sampling of a vast trove of apocalyptic and sensational art
 ## Wikipedia Articles
 
 [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
+
 [AI Winter](https://en.wikipedia.org/wiki/AI_winter) 
+
 [No Free Lunch Theorem](https://en.wikipedia.org/wiki/No_free_lunch_theorem)
+
 [Curse of Dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality)
 
-# Summarizing the Narratives
+
+## Summarizing the Narratives
 
 Here are the bullet points that objectively weigh "artificial intelligence" and "machine learning" applications in the real world, from a proponent as well as critical perspective:
 
-## Proponent Points
+### Proponent Points
 
 * Useful applications have been developed with machine learning, particularly image recognition, natural language processing, and image/audio generation. 
 
-## Critical Points
+### Critical Points
 
 * Machine learning requires large amounts of labeled data that may not be practical for most business applications
 
