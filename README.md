@@ -4,7 +4,7 @@
 
 Throughout my career, I have found "[artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)" to be an interesting buzzword. Of course, almost every buzzword that enters corporate jargon (e.g. "Big Data", "Internet of Things", "Blockchain", "BitCoin", etc) is often hyped beyond actual value. But "artificial intelligence" is different because unlike other buzzwords, "AI" has already gone through cycles of AI booms and "[AI Winters](https://en.wikipedia.org/wiki/AI_winter)" over several decades. 
 
-While many of my colleagues in operations research circles dismiss the "artificial intelligence" buzzword as media hype and tabloid, such hype has still had an effect on society. Generally speaking, many Fortune 500 executives, law makers, venture capitalists, the general population, and even technology professionals are under the impression SkyNet is upon us. Billions of U.S. dollars are poured into AI research, but most people funding such initiatives do not quite understand the technology or what it actually is good at. Anecdotally, I have also noticed programmers, data scientists, and other technology professionals become invested in AI but rarely scrutinize its capabilities and limits. 
+While many of my colleagues in operations research circles dismiss the "artificial intelligence" buzzword as media hype and tabloid, such hype has still had an effect on society. Many Fortune 500 executives, law makers, venture capitalists, the general population, and even technology professionals are under the impression [Skynet](https://en.wikipedia.org/wiki/Skynet_(Terminator)) is upon us. Billions of U.S. dollars are poured into AI research, but most people funding such initiatives do not quite understand the technology or what it actually is good at. Anecdotally, I have also noticed programmers, data scientists, and other technology professionals become invested in AI but rarely scrutinize its capabilities and limits. 
 
 My Pocket bookmarks are getting full with these articles, so I am going to start dumping them here on this GitHub page for my own organization and to share with others. Feel free to contribute your own too.  It is fascinating to compare these two narratives and how they contrast each other, and it will be interesting to see how things play out as investors and CEO's start demanding financial return from AI technologies. 
 
@@ -36,6 +36,7 @@ This is just a small sampling of a vast trove of apocalyptic and sensational art
 
 |Article|Description|
 |---|---|
+|[DeepMind's AlphaZero Now Showing Human-like Intuition](https://news.yahoo.com/deepmind-apos-alphazero-now-showing-190000147.html)|DeepMind researchers using anthropomorphizing words to describe AI|
 |[China Vows to Become AI World Leader](https://www.thesun.co.uk/tech/4067800/china-vows-to-become-artificial-intelligence-world-leader-by-2030-but-will-it-spark-a-killer-computer-arms-race/)|A bleak outlook for humanity as the US and China enter an AI arms race
 |[WSJ - How AI is Transforming the Workplace](https://www.wsj.com/articles/how-ai-is-transforming-the-workplace-1489371060)|AI is making hiring decisions for managers.|
 |[Wired - Inside the First Church of Artificial Intelligence](https://www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/)|Several Silicon Valley execs have created an AI-worshipping church.
@@ -69,3 +70,4 @@ This is just a small sampling of a vast trove of apocalyptic and sensational art
 
 [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 [AI Winter](https://en.wikipedia.org/wiki/AI_winter) 
+[No Free Lunch Theorem](https://en.wikipedia.org/wiki/No_free_lunch_theorem)
