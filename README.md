@@ -87,7 +87,9 @@ Here are the bullet points that objectively weigh "artificial intelligence" and 
 
 * Useful applications have been developed with machine learning, particularly image recognition, natural language processing, and image/audio generation. 
 
-* Machine learning has unlocked new ways to perform more powerful regressions that were impossible to do before. 
+* Machine learning has unlocked new ways to perform more powerful regressions that were impossible to do before, like fitting a regression to the pixels on an image. 
+
+* The techniques for machine learning (including neural networks) have been around for decades, but the availability of data is what enabled them, and having more data and computing power will create more applications in the future. 
 
 
 ### Critical Points
