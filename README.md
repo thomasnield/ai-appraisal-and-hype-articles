@@ -98,7 +98,7 @@ Here are the bullet points that objectively weigh "artificial intelligence" and 
 
 * Machine learning is primarily good at two things: regression and categorization. It quickly has a diminishing return in other spaces like the [Traveling Salesman Problem](https://www.youtube.com/watch?v=j1s69yf4a9Y). The most interesting problems in the real world are not regression and categorization, but rather require a broader system of intuition, human experience, domain knowledge, and unquantifiable ideas. 
 
-* AI research is fond of applying machine learning to games like chess, Go, and StarCraft because it is easy to generate enormous amounts of data from virtual players playing against themselves. However, this is not something that can easily be done in real-world applications. 
+* AI research is fond of applying machine learning to games like Chess, Go, Super Mario, and StarCraft because it is easy to generate enormous amounts of data from virtual players playing against themselves. However, this is not something that can easily be done in real-world applications.
 
 * Machine learning (and algorithms in general) need a single task with a single objective to be practically useful, and trying to generalize to multiple unrelated objectives and tasks will quickly have a diminishing return ([No Free Lunch Theorem](https://en.wikipedia.org/wiki/No_free_lunch_theorem)). 
 
