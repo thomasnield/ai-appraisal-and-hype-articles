@@ -25,7 +25,7 @@ Based on the articles and resources listed below, here are the bullet points tha
 
 ### Critical Points
 
-* Machine learning requires large amounts of labeled data that may not be practical for most business applications. This is one reason why AI research is fond of applying machine learning to games like Chess, Go, Super Mario, and StarCraft. With these games, it is easy to generate enormous amounts of data from virtual players playing against themselves. However, this is not something that can be done in most real-world applications.
+* Machine learning requires large amounts of labeled data that may not be practical to obtain in real-world applications. This is one reason why AI research is fond of applying machine learning to games like Chess, Go, Super Mario, and StarCraft. With these games, it is easy to generate enormous amounts of data from virtual players playing against themselves. However, this is not something that can be done in most real-world applications.
 
 * Heuristics and other algorithms that leverage business domain knowledge will outperform machine learning approaches in most cases, in terms of cost and resources as well as effectiveness. While heuristics do not guarantee a perfect solution, they are far less data-hungry than machine learning and can be far more effective. 
 
