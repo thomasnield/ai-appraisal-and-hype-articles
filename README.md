@@ -70,6 +70,7 @@ This is just a small sampling of a vast trove of apocalyptic and sensational art
 
 |Article|Description|
 |---|---|
+|[Brainlike Computers Learning from Experience](https://www.nytimes.com/2013/12/29/science/brainlike-computers-learning-from-experience.html)|An article about biologically-inspired computer hardware|
 |[DeepMind's AlphaZero Now Showing Human-like Intuition](https://news.yahoo.com/deepmind-apos-alphazero-now-showing-190000147.html)|DeepMind researchers using anthropomorphizing words to describe AI|
 |[China Vows to Become AI World Leader](https://www.thesun.co.uk/tech/4067800/china-vows-to-become-artificial-intelligence-world-leader-by-2030-but-will-it-spark-a-killer-computer-arms-race/)|A bleak outlook for humanity as the US and China enter an AI arms race
 |[WSJ - How AI is Transforming the Workplace](https://www.wsj.com/articles/how-ai-is-transforming-the-workplace-1489371060)|AI is making hiring decisions for managers.|
