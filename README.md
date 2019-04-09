@@ -120,3 +120,6 @@ Examples of sound expert advice, as well as the blind leading the blind.
 
 [Curse of Dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality)
 
+[Heuristic](https://en.wikipedia.org/wiki/Heuristic_(computer_science))
+
+[Metaheuristic](https://en.wikipedia.org/wiki/Metaheuristic)
