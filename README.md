@@ -68,7 +68,7 @@ Based on the articles and resources listed below, here are the bullet points tha
 
 ## Promotion of Artificial Intelligence
 
-This is just a small sampling of a vast trove of apocalyptic and sensational articles about AI. I'm going to keep this list short because there are plenty of articles promoting and sensationalizing AI. 
+This is just a small sampling of a vast trove of apocalyptic and sensational articles about AI. I also included some more reputable sources like WSJ. I'm going to keep this list short because there are plenty of articles promoting and sensationalizing AI. 
 
 |Article|Description|
 |---|---|
