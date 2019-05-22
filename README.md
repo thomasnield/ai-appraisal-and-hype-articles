@@ -80,6 +80,14 @@ This is just a small sampling of a vast trove of apocalyptic and sensational art
 |[Wired - Inside the First Church of Artificial Intelligence](https://www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/)|Several Silicon Valley execs have created an AI-worshipping church.
 |[Elon Musk - With Artificial Intelligence We Are Summoning the Demon](https://www.washingtonpost.com/news/innovations/wp/2014/10/24/elon-musk-with-artificial-intelligence-we-are-summoning-the-demon/?utm_term=.5347098e53b3)|Elon Musk gives a strangely-delivered warning about AI|
 
+
+## News Stories
+
+|Article|Description|
+|---|---|
+|[Facebook AI is Far From Able to Moderate Live Video](https://www.theverge.com/2019/5/20/18632260/facebook-ai-spot-terrorist-content-live-stream-far-from-solved-yann-lecun)|Facebook's AI is far from able to screen terrorist activity on Facebook Live|
+|[Did IBM Overhype Watson Health's Promise](https://www.computerworld.com/article/3321138/did-ibm-put-too-much-stock-in-watson-health-too-soon.html)|IBM is being questioned for not following through on its promise of AI capability in healthcare|
+
 ## Videos
 
 #### P vs. NP and the Computational Complexity Zoo 
