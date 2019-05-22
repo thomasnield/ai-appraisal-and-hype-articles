@@ -87,6 +87,7 @@ This is just a small sampling of a vast trove of apocalyptic and sensational art
 |Article|Description|
 |---|---|
 |[The Long and Lucrative Mirage of the Driverless Car](https://www.theringer.com/tech/2019/5/16/18625127/driverless-cars-mirage-uber-lyft-tesla-timeline-profitability)|Silicon Valley giants and Detroit automakers alike have sold the public visions of a utopia featuring autonomous vehicles. That reality is still far off.|
+|[Tesla Autopilot’s Safety Profile Fails to Withstand Scientific Scrutiny, May Be Increasing Traffic Deaths](https://www.ccn.com/tesla-autopilots-safety-profile-fails-to-withstand-scientific-scrutiny-may-be-increasing-traffic-deaths)|A report has found that Tesla’s autopilot is not only dangerous but may actually have increased the number of accidents since deployment.|
 |[Facebook AI is Far From Able to Moderate Live Video](https://www.theverge.com/2019/5/20/18632260/facebook-ai-spot-terrorist-content-live-stream-far-from-solved-yann-lecun)|Facebook's AI is far from able to screen terrorist activity on Facebook Live|
 |[Did IBM Overhype Watson Health's Promise](https://www.computerworld.com/article/3321138/did-ibm-put-too-much-stock-in-watson-health-too-soon.html)|IBM is being questioned for not following through on its promise of AI capability in healthcare|
 |[Nearly Half of So-Called ‘AI Firms’ in Europe Never Use Artificial Intelligence, VC Firm Says](https://www.ccn.com/40-percent-ai-firms-europe-never-use-ai-vc-says)|London venture capital firm MMC Ventures has conducted a damning survey|
